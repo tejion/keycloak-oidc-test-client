@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+}
+
+/* Center the form on the page */
+.auth-form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden; /* Prevents overflow */
+}
+
+/* Style the form */
+.auth-form {
+  background: white;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.15);
+  width: 100%;
+  max-width: 1200px;
+  text-align: center;
+  box-sizing: border-box; /* Prevents overflow */
+}
+
+/* Space out form fields */
+.auth-form .MuiTextField-root {
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+
+/* Style the login button */
+.auth-form .MuiButton-root {
+  width: 100%;
+  padding: 12px;
+  font-size: 18px;
+  text-transform: none;
+}
+.auth-response-form {
+  background: white;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.15);
+  width: 100%;
+  max-width: 1200px;
+  text-align: center;
+  box-sizing: border-box; /* Prevents overflow */
+}
