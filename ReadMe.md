@@ -13,7 +13,7 @@ Step 2. Update .env file with the values with configured in step 1.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/SunbirdAI/keycloak-oidc-test-client.git
+   git clone https://github.com/tejion/keycloak-oidc-test-client.git
    ```
 2. **Navigate to the project directory:**
    ```bash
