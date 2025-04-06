@@ -5,9 +5,9 @@ keycloak-oidc-test-client is a utility designed for testing OAuth 2.0 public cli
 
 # Configuration
 
-Step 1.  Create public client in Keycloak with all urls configured properly
-
-Step 2. Update .env file with the values with configured in step 1.
+Step 1.  Create public client in Keycloak realm with all urls configured properly
+Step 2.  Create user in Keycloak 
+Step 3. Update .env file with the values.
 
 # Setup Instructions
 
