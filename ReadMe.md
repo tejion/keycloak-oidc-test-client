@@ -17,7 +17,7 @@ Step 3. Update .env file with the values.
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd oidc-test-client
+   cd keycloak-oidc-test-client
    ```
 3. **Install dependencies:**
    ```bash
